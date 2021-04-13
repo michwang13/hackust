@@ -5,9 +5,7 @@ import 'package:hackust/fitness_app_home_screen.dart';
 void main() {
   runApp(MyApp());
 }
-test('', () {
-  
-});
+
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
